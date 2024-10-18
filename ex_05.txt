@@ -1,0 +1,15 @@
+Supondo que todas as lâmpadas começam apagadas, ligamos o primeiro interruptor e esperamos alguns minutos. Então, desligamos o primeiro interruptor e ligamos o segundo para então realizar as ida à primeira e à segunda sala, para verificar os estados das lâmpadas.
+
+	CASO 1: Se a primeira sala estiver com a lâmpada ligada e a segunda estiver com a lâmpada apagada e quente, então os interruptores correspondem, em ordem, à segunda, à primeira e à terceira sala, respectivamente.
+	
+	CASO 2: Se a primeira sala estiver com a lâmpada ligada e a segunda estiver com a lâmpada apagada e fria, então os interruptores correspondem, em ordem, à terceira, à primeira e à segunda sala, respectivamente.
+	
+	CASO 3: Se a primeira sala estiver com a lâmpada apagada e quente e a segunda estiver com a lâmpada acesa, então os interruptores correspondem, em ordem, à primeira, à segunda e à terceira sala, respectivamente.
+	
+	CASO 4: Se a primeira sala estiver com a lâmpada apagada e quente e a segunda estiver com a lâmpada apagada e fria, então os interruptores correspondem, em ordem, à primeira, à terceira e à segunda sala, respectivamente.
+	
+	CASO 5: Se a primeira sala estiver com a lâmpada apagada e fria e a segunda estiver com a lâmpada ligada, então os interruptores correspondem, em ordem, à terceira, à segunda e à primeira sala.
+	
+	CASO 6: Se a primeira sala estiver com a lâmpada apagada e fria e a segunda sala estiver com a lâmpada apagada e quente, então os interruptores correspondem, em ordem, à segunda, à terceira e à primeira sala, respectivamente.
+
+
