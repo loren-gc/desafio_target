@@ -1,0 +1,3 @@
+// LORENZO GRIPPO CHIACHIO
+
+Ao final do procedimento a variável soma terá o valor 77.
